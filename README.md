@@ -8,7 +8,7 @@ A full-stack web application for calculating metro fares in Pearly City using a 
 
 Transport officials in Pearly City are launching the **PearlCard**, a contactless prepaid card system for metro passengers. Fares are calculated based on fare zones:
 
-| From-Zone | To-Zone | Fare (₹) |
+| From-Zone | To-Zone | Fare ($) |
 |-----------|---------|----------|
 | 1         | 1       | 40       |
 | 1         | 2 / 2 → 1 | 55     |
