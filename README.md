@@ -130,9 +130,6 @@ pearlcard-project/
 
 ---
 
-
----
-
 ## 🙌 Acknowledgements
 
 Built with ❤️ using Django, React, and Tailwind CSS.
